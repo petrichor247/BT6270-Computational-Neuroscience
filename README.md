@@ -1,0 +1,1 @@
+This repository contains code for assignments for the course Computational Neuroscience
